@@ -1,0 +1,1 @@
+from .price_rating import price_rating

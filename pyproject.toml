@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+
+[project]
+name = "finml"
+version = "0.1.5"
+description = "A financial machine learning package"
+authors = [
+    {name = "Thai Doan", email = "thaidv96@gmail.com"},
+]
